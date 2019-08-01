@@ -1,8 +1,10 @@
-## Description
+## LyficFinder
+
+#### Description
 
 Simple lyric search app using react and https://developer.musixmatch.com/ API.
 
-### Usage
+##### Usage
 
 ```
 yarn install
@@ -10,7 +12,7 @@ yarn install
 
 Then enter a song title in the search field and enjoy!
 
-## Technology
+#### Technology
 
 1. React and React-Dom
 2. Boostrap
