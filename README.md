@@ -1,4 +1,4 @@
-## LyficFinder
+## LyricFinder
 
 #### Description
 
